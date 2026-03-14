@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Simon!
+
+I'm currently a PhD student in applied math @ Mines Paris-PSL.
+
+- [presse](https://github.com/SimonBure/presse) — Fast PDF compression CLI, 7× faster than Ghostscript
+
+## Stack
+Rust · Python · 
+
+![Rust](https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white)
 
 <!--
 **SimonBure/SimonBure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
