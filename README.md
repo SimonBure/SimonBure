@@ -12,7 +12,7 @@
   <a href="https://scholar.google.com/citations?user=wqJgLZIAAAAJ&hl=fr&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
-My name is Simon Buré, 🇫🇷 french researcher, dev, philosopher and writer. I hold a computational biology engineering degree from INSA Lyon, a master degree in mathematics from Université Paris-Saclay and Institut Polytechnique de Paris and I'm currently undertaking a PhD at Écoles Nationale Supérieure des Mines de Paris -- PSL in applied maths (real-time, personalized monitoring of blood pressure in surgery & ICUs) and a master degree in logic and philosophy of science at Université Paris-Sorbonne.
+My name is Simon Buré, french 🇫🇷 researcher, dev, philosopher and writer. I hold a computational biology engineering degree from INSA Lyon, a master degree in mathematics from Université Paris-Saclay and Institut Polytechnique de Paris and I'm currently undertaking a PhD at Écoles Nationale Supérieure des Mines de Paris -- PSL in applied maths (real-time, personalized monitoring of blood pressure in surgery & ICUs) and a master degree in logic and philosophy of science at Université Paris-Sorbonne.
 
 <!-- Language breakdown computed live (byte-weighted) across all public repos -->
 <p align="center">
@@ -30,20 +30,20 @@ Below are open-source projects I created and dedicated myself to. Each came from
 <a href="https://ko-fi.com/SimonBure"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/SimonBure/presse"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=SimonBure&repo=presse&theme=default&hide_border=true" alt="presse repo card" /></a>
-  <a href="https://github.com/SimonBure/staze"><img width="320" src="https://github-stats-extended.vercel.app/api/pin/?username=SimonBure&repo=staze&theme=default&hide_border=true" alt="staze repo card" /></a>
+  <a href="https://github.com/SimonBure/presse"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=SimonBure&repo=presse&theme=default&hide_border=true" alt="presse repo card" /></a>
+  <a href="https://github.com/SimonBure/staze"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=SimonBure&repo=staze&theme=default&hide_border=true" alt="staze repo card" /></a>
 </p>
 
 Here are some open-source repos and projects I'm really enthusiastic for, that you might like:
 <p align="center">
-  <a href="https://github.com/zed-industries/zed"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=zed-industries&repo=zed&theme=default&hide_border=true" alt="zed repo card" /></a>
-  <a href="https://github.com/typst/typst"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=typst&repo=typst&theme=default&hide_border=true" alt="typst repo card" /></a>
-  <a href="https://github.com/qdrant/qdrant"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=qdrant&repo=qdrant&theme=default&hide_border=true" alt="qdrant repo card" /></a>
-  <a href="https://github.com/alirezarezvani/claude-skills"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=alirezarezvani&repo=claude-skills&theme=default&hide_border=true" alt="claude-skills repo card" /></a>
-  <a href="https://github.com/google-deepmind/concordia"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=google-deepmind&repo=concordia&theme=default&hide_border=true" alt="concordia repo card" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=sindresorhus&repo=awesome&theme=default&hide_border=true" alt="awesome repo card" /></a>
-  <a href="https://github.com/NousResearch/hermes-agent"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=NousResearch&repo=hermes-agent&theme=default&hide_border=true" alt="hermes-agent repo card" /></a>
-  <a href="https://github.com/kolala73/worldmonitor"><img width="300" src="https://github-stats-extended.vercel.app/api/pin/?username=kolala73&repo=worldmonitor&theme=default&hide_border=true" alt="worldmonitor repo card" /></a>
+  <a href="https://github.com/zed-industries/zed"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=zed-industries&repo=zed&theme=default&hide_border=true" alt="zed repo card" /></a>
+  <a href="https://github.com/typst/typst"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=typst&repo=typst&theme=default&hide_border=true" alt="typst repo card" /></a>
+  <a href="https://github.com/qdrant/qdrant"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=qdrant&repo=qdrant&theme=default&hide_border=true" alt="qdrant repo card" /></a>
+  <a href="https://github.com/alirezarezvani/claude-skills"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=alirezarezvani&repo=claude-skills&theme=default&hide_border=true" alt="claude-skills repo card" /></a>
+  <a href="https://github.com/google-deepmind/concordia"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=google-deepmind&repo=concordia&theme=default&hide_border=true" alt="concordia repo card" /></a>
+  <a href="https://github.com/sindresorhus/awesome"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=sindresorhus&repo=awesome&theme=default&hide_border=true" alt="awesome repo card" /></a>
+  <a href="https://github.com/NousResearch/hermes-agent"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=NousResearch&repo=hermes-agent&theme=default&hide_border=true" alt="hermes-agent repo card" /></a>
+  <a href="https://github.com/kolala73/worldmonitor"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=kolala73&repo=worldmonitor&theme=default&hide_border=true" alt="worldmonitor repo card" /></a>
 </p>
 
 Stay connected and see you online!
