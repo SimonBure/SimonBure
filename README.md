@@ -43,7 +43,7 @@ Here are some open-source repos and projects I'm really enthusiastic for, that y
   <a href="https://github.com/google-deepmind/concordia"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=google-deepmind&repo=concordia&theme=default&hide_border=true" alt="concordia repo card" /></a>
   <a href="https://github.com/sindresorhus/awesome"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=sindresorhus&repo=awesome&theme=default&hide_border=true" alt="awesome repo card" /></a>
   <a href="https://github.com/NousResearch/hermes-agent"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=NousResearch&repo=hermes-agent&theme=default&hide_border=true" alt="hermes-agent repo card" /></a>
-  <a href="https://github.com/kolala73/worldmonitor"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=kolala73&repo=worldmonitor&theme=default&hide_border=true" alt="worldmonitor repo card" /></a>
+  <a href="https://github.com/koaala73/worldmonitor"><img width="350" src="https://github-stats-extended.vercel.app/api/pin/?username=koala73&repo=worldmonitor&theme=default&hide_border=true" alt="worldmonitor repo card" /></a>
 </p>
 
 Stay connected and see you online!
